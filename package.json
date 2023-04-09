@@ -1,0 +1,23 @@
+{
+  "name": "alertestreams-bot",
+  "version": "1.0.0",
+  "description": "Alertes streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walda666/AlerteStreams-Bot.git"
+  },
+  "author": "Walda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Walda666/AlerteStreams-Bot/issues"
+  },
+  "homepage": "https://github.com/Walda666/AlerteStreams-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fetch": "^1.1.0"
+  }
+}
